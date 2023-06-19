@@ -1,0 +1,24 @@
+div{
+    background-color: rgb(247, 216, 219);
+    
+        margin-left: 19%;
+        margin-right:19% ;
+    
+        align-items: center;
+    
+        margin-top: 0.3rem;
+        text-align:center;
+    
+}
+div input{
+    
+    height: 2.4rem;
+    width: 20rem;
+    background-color: rgb(251, 245, 245);
+  
+}
+div button{
+    
+    background-color: rgb(251, 245, 245);
+}
+        

@@ -1,0 +1,53 @@
+h3{
+    text-align: center;
+    color: rgb(105, 61, 6);
+}
+h2{
+    text-align: center;
+    color: rgb(237, 33, 33);
+}
+div{
+    margin: 5rem;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+
+    
+    
+  }
+  .he {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+  .hi {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+  .hii {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+  .hiii {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+  .hiiii {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
